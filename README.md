@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 Currently learning: testing with Pytest (fixtures, parametrization, and mocks).
+<img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/7d2abf0b-6773-489c-a836-54e498753474" />
+
